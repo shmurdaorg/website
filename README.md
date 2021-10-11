@@ -1,3 +1,3 @@
 # shmurda.org website
->> much cursed
+> index.html's image may take a while to update, if it does not, let me know - Ethan
  
